@@ -1,4 +1,4 @@
-# Portfolio
+# Network Configuration Setup project
 README
 
 This repository contains code for setting up a network topology using the Mininet network emulator and implementing a simple routing algorithm using the POX OpenFlow controller.
