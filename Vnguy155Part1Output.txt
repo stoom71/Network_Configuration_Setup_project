@@ -1,0 +1,32 @@
+Warning: Using well known port number.
+1000: entered port number, /home/mininet: entered root directory path
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+Date: Fri, 03 Mar 2023 10:01:30 GMT
+Last-Modified: Fri, 03 Mar 2023 09:33:11 GMT
+
+<html>
+ <head>
+  <title>Hello World</title>
+ </head>
+ <body>
+  <p>Hello World, I am Vincent Nguyen 1826376</p>
+ </body>
+</html>
+
+10000: entered port number, /home/mininet: entered root directory path
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 143
+Date: Fri, 03 Mar 2023 10:02:38 GMT
+Last-Modified: Fri, 03 Mar 2023 09:33:11 GMT
+
+<html>
+ <head>
+  <title>Hello World</title>
+ </head>
+ <body>
+  <p>Hello World, I am Vincent Nguyen 1826376</p>
+ </body>
+</html>
